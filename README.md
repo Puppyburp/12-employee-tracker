@@ -1,7 +1,7 @@
 # CLI Employee Tracker
 
 ## Description
-A command line interface that allows users to view information stored in a database within their terminal. Utilizes node, inquirer, and MySQL.
+A command line interface that allows users to view information stored in a database within their terminal. Utilizes Node.js, Inquirer, and MySQL.
 
 ## Usage
 * Install dependencies.
